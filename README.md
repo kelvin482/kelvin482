@@ -36,21 +36,6 @@ I design and build intelligent, secure, and high-performance digital solutions w
 ## 🛠️ **Technology Stack & Expertise**
 
 <br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,docker,kubernetes,linux,postgres,git,tensorflow,pytorch&perline=11" alt="Tech Stack" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-</p>
-
-</div>
-
 ---
 
 ## 🚀 About Me
