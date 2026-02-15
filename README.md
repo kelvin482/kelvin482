@@ -13,19 +13,37 @@ Highly motivated <b>Full-Stack AI Systems Engineer</b> specializing in <b>Machin
 I design and build intelligent, secure, and high-performance digital solutions with a strong focus on <b>system architecture, automation, and real-world impact</b>.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kelvin482&label=Profile%20views&color=0e75b6&style=flat" alt="kelvin482" />
-</p>
+<br>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=kelvin482&label=Profile%20Views&color=00ff41&style=for-the-badge&labelColor=0a0e14)](https://github.com/kelvin482)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🛠️ **Technology Stack & Expertise**
+
+<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,docker,kubernetes,linux,postgres,git,tensorflow,pytorch&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,docker,kubernetes,linux,postgres,git,tensorflow,pytorch&perline=11" alt="Tech Stack" />
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
+
+</div>
 
 ---
 
