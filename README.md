@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelvin Kiambi</h1>
-<h3 align="center">Full-Stack AI Systems Engineer | Machine Learning • Cloud • Infrastructure • Networking</h3>
+<h3 align="center">Full-Stack AI Systems Engineer | Machine Learning • Cloud • Networking</h3>
 
 <p align="center">
 Highly motivated <b>Full-Stack AI Systems Engineer</b> specializing in <b>Machine Learning, Cloud Infrastructure, and Scalable Web Systems</b>.
