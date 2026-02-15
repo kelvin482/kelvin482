@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kelvin Kiambi</h1>
-<h3 align="center">Full-Stack AI Systems Engineer | Machine Learning • Cloud • Networking</h3>
+
+<div align="center">
+
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Full-Stack+AI+Systems+Engineer;Machine+Learning+%E2%80%A2+Cloud+%E2%80%A2+Networking;Building+Intelligent+Systems+That+Scale" alt="Typing SVG" />
+</h3>
+
+</div>
 
 <p align="center">
-Highly motivated <b>Full-Stack AI Systems Engineer</b> specializing in <b>Machine Learning, Cloud Infrastructure, and Scalable Web Systems</b>.
+Highly motivated <b>Full-Stack AI Systems Engineer</b> specializing in <b>Machine Learning, Cloud Infrastructure, and Scalable Web Systems</b>.<br>
 I design and build intelligent, secure, and high-performance digital solutions with a strong focus on <b>system architecture, automation, and real-world impact</b>.
 </p>
 
@@ -11,7 +18,7 @@ I design and build intelligent, secure, and high-performance digital solutions w
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,docker,kubernetes,linux,postgres,git,tensorflow,pytorch&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,docker,kubernetes,linux,postgres,git,tensorflow,pytorch&perline=11" />
 </p>
 
 <p align="center">
@@ -76,10 +83,46 @@ Hands-on Python exercises, notebooks, and practical datasets for building strong
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/kelvin-mutwiri-01250331b" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelvin-mutwiri" height="30" width="40" />
-</a>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="50" />
+<br><b>EMAIL</b><br>
+<a href="mailto:kelvinkiambi35@gmail.com">kelvinkiambi35@gmail.com</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="50" />
+<br><b>LINKEDIN</b><br>
+<a href="https://linkedin.com/in/kelvin-mutwiri-01250331b" target="_blank">kelvin-mutwiri</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="50" />
+<br><b>GITHUB</b><br>
+<a href="https://github.com/kelvin482" target="_blank">@kelvin482</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="50" />
+<br><b>PORTFOLIO</b><br>
+<a href="https://kelvin482.github.io" target="_blank">kelvin482.github.io</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinkiambi35@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvin-mutwiri-01250331b)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://kelvin482.github.io)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvin482)
+
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kelvin-mutwiri-01250331b" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelvin-mutwiri" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -128,3 +171,7 @@ Hands-on Python exercises, notebooks, and practical datasets for building strong
 <p align="center">
 "Build systems that scale, models that explain, and interfaces that feel effortless."
 </p>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
