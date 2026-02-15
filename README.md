@@ -6,7 +6,7 @@
 <!-- OR Use this animated tech background - OPTION 2 -->
 <!-- <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Tech Background" /> -->
 
-<h1>Hi 👋, I'm Kelvin Mutwiri</h1>
+<h1>Hi 👋, I'm Kelvin Kiambi</h1>
 
 <h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Systems+%26+Network+Engineer;AI-Driven+Web+Development+%E2%80%A2+Automation;Cloud+%26+Full-Stack+Solutions;Building+Intelligent+Systems+That+Scale" alt="Typing SVG" />
@@ -36,6 +36,21 @@ I design and build intelligent, secure, and high-performance digital solutions w
 ## 🛠️ **Technology Stack & Expertise**
 
 <br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,docker,kubernetes,linux,postgres,git,tensorflow,pytorch&perline=11" alt="Tech Stack" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+</p>
+
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -46,9 +61,22 @@ I design and build intelligent, secure, and high-performance digital solutions w
 - 💬 Ask me about **AI Engineering, Django APIs, Cloud Systems, UI/UX, System Architecture**
 - 📫 Reach me at **kelvinkiambi35@gmail.com**
 - ⚡ Fun fact: **I turn complex problems into simple, elegant solutions — and yes, I enjoy debugging more than sleeping 😄**
+
+---
+## 🚀 Featured Projects
+
+### 🏥 AI-Assisted Breast Cancer Diagnosis Platform  
+End-to-end AI-powered clinical decision support system for post-biopsy cancer classification using explainable ML models, interactive dashboards, and cloud deployment.  
+🔗 https://github.com/kelvin482/Cancer_assesment_project  
+
 ---
 
-## 🚀 Featured Projects
+### 🏫 TharakaHub — University Digital Platform  
+Comprehensive student & staff digital ecosystem with academic resources, dashboards, communication tools, and secure data management.  
+🔗 https://github.com/kelvin482/TharakaHub  
+
+---
+
 ## 📚 Learning Resources & Practice
 
 ### 🐍 Python Practice & Data Science Foundations  
@@ -56,6 +84,7 @@ Hands-on Python exercises, notebooks, and practical datasets for building strong
 🔗 https://github.com/kelvin482/BITE_353_-Practice_Notebook-_AfterWork_Introduction_to_python  
 
 ---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -102,25 +131,7 @@ Hands-on Python exercises, notebooks, and practical datasets for building strong
 
 ---
 
-## 🛠️ Languages and Tools
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
