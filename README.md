@@ -64,12 +64,6 @@ I design and build intelligent, secure, and high-performance digital solutions w
 ---
 
 ## 🚀 Featured Projects
-
-### 🏥 AI-Assisted Breast Cancer Diagnosis Platform  
-End-to-end AI-powered clinical decision support system for post-biopsy cancer classification using explainable ML models, interactive dashboards, and cloud deployment.  
-🔗 https://github.com/kelvin482/Cancer_assesment_project  
----
-
 ## 📚 Learning Resources & Practice
 
 ### 🐍 Python Practice & Data Science Foundations  
