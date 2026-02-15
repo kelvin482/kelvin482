@@ -61,18 +61,6 @@ I design and build intelligent, secure, and high-performance digital solutions w
 - 💬 Ask me about **AI Engineering, Django APIs, Cloud Systems, UI/UX, System Architecture**
 - 📫 Reach me at **kelvinkiambi35@gmail.com**
 - ⚡ Fun fact: **I turn complex problems into simple, elegant solutions — and yes, I enjoy debugging more than sleeping 😄**
-
----
-
-## 🧠 Core Expertise
-
-- **AI Engineering:** Machine Learning, Deep Learning, Computer Vision, Explainable AI  
-- **System Architecture:** API Design, Authentication Systems, Scalable SaaS Platforms  
-- **Cloud & DevOps:** Docker, Kubernetes, CI/CD Pipelines, Linux Servers  
-- **Backend Engineering:** Django, REST APIs, PostgreSQL, Supabase  
-- **Frontend Engineering:** React, Next.js, Tailwind CSS, UI/UX Design  
-- **Infrastructure & Networking:** Linux Administration, Security, Automation  
-
 ---
 
 ## 🚀 Featured Projects
@@ -80,13 +68,6 @@ I design and build intelligent, secure, and high-performance digital solutions w
 ### 🏥 AI-Assisted Breast Cancer Diagnosis Platform  
 End-to-end AI-powered clinical decision support system for post-biopsy cancer classification using explainable ML models, interactive dashboards, and cloud deployment.  
 🔗 https://github.com/kelvin482/Cancer_assesment_project  
-
----
-
-### 🏫 TharakaHub — University Digital Platform  
-Comprehensive student & staff digital ecosystem with academic resources, dashboards, communication tools, and secure data management.  
-🔗 https://github.com/kelvin482/TharakaHub  
-
 ---
 
 ## 📚 Learning Resources & Practice
@@ -96,15 +77,6 @@ Hands-on Python exercises, notebooks, and practical datasets for building strong
 🔗 https://github.com/kelvin482/BITE_353_-Practice_Notebook-_AfterWork_Introduction_to_python  
 
 ---
-
-## 🤝 Collaboration & Learning
-
-- 👯 Open to collaborating on **AI Systems, SaaS Platforms, Healthcare AI, and Cloud Infrastructure**
-- 🤝 Looking for help with **MLOps pipelines, distributed AI systems, and cloud-native architectures**
-- 🌍 Actively contributing to **open-source and research-driven projects**
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
