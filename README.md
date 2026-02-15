@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kelvin Kiambi</h1>
-
 <div align="center">
+
+<!-- Matrix/Tech GIF Background Header - OPTION 1 -->
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<!-- OR Use this animated tech background - OPTION 2 -->
+<!-- <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Tech Background" /> -->
+
+<h1>Hi 👋, I'm Kelvin Kiambi</h1>
 
 <h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Full-Stack+AI+Systems+Engineer;Machine+Learning+%E2%80%A2+Cloud+%E2%80%A2+Networking;Building+Intelligent+Systems+That+Scale" alt="Typing SVG" />
@@ -191,5 +197,8 @@ Hands-on Python exercises, notebooks, and practical datasets for building strong
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
 </div>
