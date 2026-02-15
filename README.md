@@ -57,7 +57,7 @@ I design and build intelligent, secure, and high-performance digital solutions w
 
 - 🔭 Currently building **AI-Assisted Healthcare Diagnosis Systems**
 - 🌱 Learning **Advanced Machine Learning • MLOps • Cloud Computing • DevOps • Kubernetes • System Design**
-- 👨‍💻 Portfolio: **https://kelvin482.github.io**
+- 👨‍💻 Portfolio: **https://kelvin482.github.io/MyPortfolio1/index.html**
 - 💬 Ask me about **AI Engineering, Django APIs, Cloud Systems, UI/UX, System Architecture**
 - 📫 Reach me at **kelvinkiambi35@gmail.com**
 - ⚡ Fun fact: **I turn complex problems into simple, elegant solutions — and yes, I enjoy debugging more than sleeping 😄**
