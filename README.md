@@ -95,7 +95,7 @@ Hands-on Python exercises, notebooks, and practical datasets for building strong
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="50" />
 <br><b>PORTFOLIO</b><br>
-<a href="https://kelvin482.github.io" target="_blank">kelvin482.github.io</a>
+<a href="https://kelvin482.github.io" target="_blank">https://kelvin482.github.io/MyPortfolio1/index.html</a>
 </td>
 </tr>
 </table>
