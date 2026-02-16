@@ -63,27 +63,6 @@ I design and build intelligent, secure, and high-performance digital solutions w
 - ⚡ Fun fact: **I turn complex problems into simple, elegant solutions — and yes, I enjoy debugging more than sleeping 😄**
 
 ---
-## 🚀 Featured Projects
-
-### 🏥 AI-Assisted Breast Cancer Diagnosis Platform  
-End-to-end AI-powered clinical decision support system for post-biopsy cancer classification using explainable ML models, interactive dashboards, and cloud deployment.  
-🔗 https://github.com/kelvin482/Cancer_assesment_project  
-
----
-
-### 🏫 TharakaHub — University Digital Platform  
-Comprehensive student & staff digital ecosystem with academic resources, dashboards, communication tools, and secure data management.  
-🔗 https://github.com/kelvin482/TharakaHub  
-
----
-
-## 📚 Learning Resources & Practice
-
-### 🐍 Python Practice & Data Science Foundations  
-Hands-on Python exercises, notebooks, and practical datasets for building strong programming and data science fundamentals.  
-🔗 https://github.com/kelvin482/BITE_353_-Practice_Notebook-_AfterWork_Introduction_to_python  
-
----
 
 ## 🌐 Connect With Me
 
