@@ -68,36 +68,11 @@ I design and build intelligent, secure, and high-performance digital solutions w
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="50" />
-<br><b>EMAIL</b><br>
-<a href="mailto:kelvinkiambi35@gmail.com">kelvinkiambi35@gmail.com</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="50" />
-<br><b>LINKEDIN</b><br>
-<a href="https://linkedin.com/in/kelvin-mutwiri-01250331b" target="_blank">kelvin-mutwiri</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/github.png" width="50" />
-<br><b>GITHUB</b><br>
-<a href="https://github.com/kelvin482" target="_blank">@kelvin482</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="50" />
-<br><b>PORTFOLIO</b><br>
-<a href="https://kelvin482.github.io" target="_blank">https://kelvin482.github.io/MyPortfolio1/index.html</a>
-</td>
-</tr>
-</table>
-
 <br>
 
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinkiambi35@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvin-mutwiri-01250331b)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://kelvin482.github.io)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://kelvin482.github.io/MyPortfolio1/index.html)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvin482)
 
 </div>
